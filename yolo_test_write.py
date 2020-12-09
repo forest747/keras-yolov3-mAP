@@ -20,7 +20,7 @@ from yolo3.utils import letterbox_image
 
 # from keras.utils import multi_gpu_model
 
-path = 'mAP/input/images-optional'  # 待检测图片的位置
+path = '/map-test/inputs/input/images-optional'  # 待检测图片的位置
 
 # 创建创建一个存储检测结果的dir
 image_result_path = '/map-test/inputs/input/image_detect_results'
